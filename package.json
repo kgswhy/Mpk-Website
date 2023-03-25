@@ -1,0 +1,23 @@
+{
+  "name": "mpktelkomjkt",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "build:css": "tailwind build src/tailwind.css -o assets/css/tailwind.css"
+  },
+  "keywords": [],
+  "author": "Kgs. Wahyu",
+  "license": "ISC",
+  "dependencies": {
+    "tailwindcss": "^3.2.7"
+  },
+  "description": "web mpk official",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgswhy/Mpk-Website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kgswhy/Mpk-Website/issues"
+  },
+  "homepage": "https://github.com/kgswhy/Mpk-Website#readme"
+}
