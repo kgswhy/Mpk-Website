@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <br>
-  <a href="https://www.instagram.com/mpktelkomjakarta/"><img src="https://i.ibb.co/vmSTcPx/Logo-MPK.png" alt="MPK" width="200"></a>
+  <a href="https://www.instagram.com/mpktelkomjakarta/"><img src="https://i.ibb.co/vmSTcPx/Logo-MPK.png" alt="MPK" width="200" styel="border-rounded: 10px;"></a>
   <br>
-  Markdownify
+  MPK
   <br>
 </h1>
 
